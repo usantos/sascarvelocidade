@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SasCar Speed</string>
+    <string name="not_in_location">Ainda não chegou na localização</string>
+    <string name="sas_car_value">SAS CAR</string>
+    <string name="in_location">Está na localização</string>
+</resources>
